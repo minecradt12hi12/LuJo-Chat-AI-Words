@@ -1,0 +1,14 @@
+{
+  "Apfel": {
+    "bedeutung": "Eine runde Frucht, die auf Bäumen wächst.",
+    "synonyme": ["Obst", "Frucht"]
+  },
+  "laufen": {
+    "bedeutung": "Sich zu Fuß fortbewegen, schneller als gehen.",
+    "synonyme": ["rennen", "sprinten"]
+  },
+  "massiv": {
+    "bedeutung": "Sehr fest, stark oder beeindruckend.",
+    "synonyme": ["wuchtig", "kräftig", "stark"]
+  }
+}
