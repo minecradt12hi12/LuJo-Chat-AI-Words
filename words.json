@@ -1,14 +1,31 @@
 {
   "Apfel": {
     "bedeutung": "Eine runde Frucht, die auf Bäumen wächst.",
-    "synonyme": ["Obst", "Frucht"]
+    "synonyme": [
+      "Obst",
+      "Frucht"
+    ]
   },
   "laufen": {
     "bedeutung": "Sich zu Fuß fortbewegen, schneller als gehen.",
-    "synonyme": ["rennen", "sprinten"]
+    "synonyme": [
+      "rennen",
+      "sprinten"
+    ]
   },
   "massiv": {
     "bedeutung": "Sehr fest, stark oder beeindruckend.",
-    "synonyme": ["wuchtig", "kräftig", "stark"]
+    "synonyme": [
+      "wuchtig",
+      "kräftig",
+      "stark"
+    ]
+  },
+  "birne": {
+    "bedeutung": {
+      "status": "invalid_format",
+      "message": "Wiktionary lieferte keine gültige Bedeutung."
+    },
+    "synonyme": []
   }
 }
